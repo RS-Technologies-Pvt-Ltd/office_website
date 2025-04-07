@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" id="Layer_1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 272.79 315" style="enable-background:new 0 0 272.79 315;" xml:space="preserve">
+      <style type="text/css">.st0{fill:#001D66;}	.st1{fill:#3E9FFF;}	.st2{fill:#4BEF8E;}</style>
+    <metadata>
+              <sfw>
+                      <slices/>
+            <sliceSourceBounds bottomLeftOrigin="true" height="290" width="250" x="1200.367" y="-679.944"/>
+                  </sfw>
+          </metadata>
+    <g id="color_index_2" fill="#001d66">
+              <path d="M136.395,157.5V315l-59.661-34.461v-60.102c5.796-0.221,9.733-4.977,9.733-13.01&#x9;&#x9;c0-11.624-8.221-25.862-18.269-31.689c-10.048-5.796-18.302-1.04-18.302,10.584c0,8.032,3.969,17.357,9.733,24.255v60.102L0,236.25&#x9;&#x9;V78.75L136.395,157.5z"/>
+          </g>
+    <g id="color_index_1" fill="#3e9fff">
+              <path d="M272.79,78.75v157.5l-59.661,34.461v-60.133c5.796-6.899,9.733-16.223,9.733-24.255&#x9;&#x9;c0-11.624-8.221-16.38-18.27-10.584c-10.048,5.827-18.301,20.065-18.301,31.689c0,8.032,3.938,12.757,9.733,12.978v60.165&#x9;&#x9;L136.395,315V157.5L272.79,78.75z"/>
+          </g>
+    <g id="color_index_0" fill="#4bef8e">
+              <path d="M272.79,78.75L136.395,157.5L0,78.75l59.662-34.429L111.7,74.372c-2.709,5.103-0.568,10.899,6.394,14.931&#x9;&#x9;c10.081,5.796,26.524,5.796,36.572,0c10.08-5.828,10.08-15.309,0-21.105c-6.93-4.032-16.947-5.198-25.767-3.654L76.734,34.43&#x9;&#x9;L136.395,0L272.79,78.75z"/>
+          </g>
+  </svg>
