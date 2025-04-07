@@ -110,7 +110,7 @@ npm run lint
 
 **Akshay Kumar Gupta**  
 Founder & Software Engineer at RS Technologies  
-🔗 [LinkedIn](https://linkedin.com/in/akshaykumargupta) *(Add your real link)*
+🔗 [LinkedIn](https://linkedin.com/in/akshay0497) 
 
 ---
 
